@@ -1,0 +1,8 @@
+flask
+numpy
+requests
+tensorflow>=2
+tensorboard
+matplotlib
+pillow
+prettytable

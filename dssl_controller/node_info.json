@@ -1,0 +1,529 @@
+{
+  "emulator": {
+    "emulator-1": {
+      "ip": "222.201.187.52"
+    },
+    "emulator-2": {
+      "ip": "222.201.187.50"
+    }
+  },
+  "emulated_node": {
+    "n0": {
+      "ip": "222.201.187.52",
+      "port": "9001",
+      "emulator": "emulator-1"
+    },
+    "n1": {
+      "ip": "222.201.187.52",
+      "port": "9002",
+      "emulator": "emulator-1"
+    },
+    "n2": {
+      "ip": "222.201.187.52",
+      "port": "9003",
+      "emulator": "emulator-1"
+    },
+    "n3": {
+      "ip": "222.201.187.52",
+      "port": "9004",
+      "emulator": "emulator-1"
+    },
+    "n4": {
+      "ip": "222.201.187.52",
+      "port": "9005",
+      "emulator": "emulator-1"
+    },
+    "n5": {
+      "ip": "222.201.187.52",
+      "port": "9006",
+      "emulator": "emulator-1"
+    },
+    "n6": {
+      "ip": "222.201.187.52",
+      "port": "9007",
+      "emulator": "emulator-1"
+    },
+    "n7": {
+      "ip": "222.201.187.52",
+      "port": "9008",
+      "emulator": "emulator-1"
+    },
+    "n8": {
+      "ip": "222.201.187.52",
+      "port": "9009",
+      "emulator": "emulator-1"
+    },
+    "n9": {
+      "ip": "222.201.187.52",
+      "port": "9010",
+      "emulator": "emulator-1"
+    },
+    "n10": {
+      "ip": "222.201.187.52",
+      "port": "9011",
+      "emulator": "emulator-1"
+    },
+    "n11": {
+      "ip": "222.201.187.52",
+      "port": "9012",
+      "emulator": "emulator-1"
+    },
+    "n12": {
+      "ip": "222.201.187.52",
+      "port": "9013",
+      "emulator": "emulator-1"
+    },
+    "n13": {
+      "ip": "222.201.187.52",
+      "port": "9014",
+      "emulator": "emulator-1"
+    },
+    "n14": {
+      "ip": "222.201.187.52",
+      "port": "9015",
+      "emulator": "emulator-1"
+    },
+    "n15": {
+      "ip": "222.201.187.52",
+      "port": "9016",
+      "emulator": "emulator-1"
+    },
+    "n16": {
+      "ip": "222.201.187.52",
+      "port": "9017",
+      "emulator": "emulator-1"
+    },
+    "n17": {
+      "ip": "222.201.187.52",
+      "port": "9018",
+      "emulator": "emulator-1"
+    },
+    "n18": {
+      "ip": "222.201.187.52",
+      "port": "9019",
+      "emulator": "emulator-1"
+    },
+    "n19": {
+      "ip": "222.201.187.52",
+      "port": "9020",
+      "emulator": "emulator-1"
+    },
+    "n20": {
+      "ip": "222.201.187.52",
+      "port": "9021",
+      "emulator": "emulator-1"
+    },
+    "n21": {
+      "ip": "222.201.187.52",
+      "port": "9022",
+      "emulator": "emulator-1"
+    },
+    "n22": {
+      "ip": "222.201.187.52",
+      "port": "9023",
+      "emulator": "emulator-1"
+    },
+    "n23": {
+      "ip": "222.201.187.52",
+      "port": "9024",
+      "emulator": "emulator-1"
+    },
+    "n24": {
+      "ip": "222.201.187.52",
+      "port": "9025",
+      "emulator": "emulator-1"
+    },
+    "n25": {
+      "ip": "222.201.187.52",
+      "port": "9026",
+      "emulator": "emulator-1"
+    },
+    "n26": {
+      "ip": "222.201.187.52",
+      "port": "9027",
+      "emulator": "emulator-1"
+    },
+    "n27": {
+      "ip": "222.201.187.52",
+      "port": "9028",
+      "emulator": "emulator-1"
+    },
+    "n28": {
+      "ip": "222.201.187.52",
+      "port": "9029",
+      "emulator": "emulator-1"
+    },
+    "n29": {
+      "ip": "222.201.187.52",
+      "port": "9030",
+      "emulator": "emulator-1"
+    },
+    "n30": {
+      "ip": "222.201.187.52",
+      "port": "9031",
+      "emulator": "emulator-1"
+    },
+    "n31": {
+      "ip": "222.201.187.52",
+      "port": "9032",
+      "emulator": "emulator-1"
+    },
+    "n32": {
+      "ip": "222.201.187.52",
+      "port": "9033",
+      "emulator": "emulator-1"
+    },
+    "n33": {
+      "ip": "222.201.187.52",
+      "port": "9034",
+      "emulator": "emulator-1"
+    },
+    "n34": {
+      "ip": "222.201.187.52",
+      "port": "9035",
+      "emulator": "emulator-1"
+    },
+    "n35": {
+      "ip": "222.201.187.52",
+      "port": "9036",
+      "emulator": "emulator-1"
+    },
+    "n36": {
+      "ip": "222.201.187.52",
+      "port": "9037",
+      "emulator": "emulator-1"
+    },
+    "n37": {
+      "ip": "222.201.187.52",
+      "port": "9038",
+      "emulator": "emulator-1"
+    },
+    "n38": {
+      "ip": "222.201.187.52",
+      "port": "9039",
+      "emulator": "emulator-1"
+    },
+    "n39": {
+      "ip": "222.201.187.52",
+      "port": "9040",
+      "emulator": "emulator-1"
+    },
+    "n40": {
+      "ip": "222.201.187.52",
+      "port": "9041",
+      "emulator": "emulator-1"
+    },
+    "n41": {
+      "ip": "222.201.187.52",
+      "port": "9042",
+      "emulator": "emulator-1"
+    },
+    "n42": {
+      "ip": "222.201.187.52",
+      "port": "9043",
+      "emulator": "emulator-1"
+    },
+    "n43": {
+      "ip": "222.201.187.52",
+      "port": "9044",
+      "emulator": "emulator-1"
+    },
+    "n44": {
+      "ip": "222.201.187.52",
+      "port": "9045",
+      "emulator": "emulator-1"
+    },
+    "n45": {
+      "ip": "222.201.187.52",
+      "port": "9046",
+      "emulator": "emulator-1"
+    },
+    "n46": {
+      "ip": "222.201.187.52",
+      "port": "9047",
+      "emulator": "emulator-1"
+    },
+    "n47": {
+      "ip": "222.201.187.52",
+      "port": "9048",
+      "emulator": "emulator-1"
+    },
+    "n48": {
+      "ip": "222.201.187.52",
+      "port": "9049",
+      "emulator": "emulator-1"
+    },
+    "n49": {
+      "ip": "222.201.187.52",
+      "port": "9050",
+      "emulator": "emulator-1"
+    },
+    "n50": {
+      "ip": "222.201.187.50",
+      "port": "9051",
+      "emulator": "emulator-2"
+    },
+    "n51": {
+      "ip": "222.201.187.50",
+      "port": "9052",
+      "emulator": "emulator-2"
+    },
+    "n52": {
+      "ip": "222.201.187.50",
+      "port": "9053",
+      "emulator": "emulator-2"
+    },
+    "n53": {
+      "ip": "222.201.187.50",
+      "port": "9054",
+      "emulator": "emulator-2"
+    },
+    "n54": {
+      "ip": "222.201.187.50",
+      "port": "9055",
+      "emulator": "emulator-2"
+    },
+    "n55": {
+      "ip": "222.201.187.50",
+      "port": "9056",
+      "emulator": "emulator-2"
+    },
+    "n56": {
+      "ip": "222.201.187.50",
+      "port": "9057",
+      "emulator": "emulator-2"
+    },
+    "n57": {
+      "ip": "222.201.187.50",
+      "port": "9058",
+      "emulator": "emulator-2"
+    },
+    "n58": {
+      "ip": "222.201.187.50",
+      "port": "9059",
+      "emulator": "emulator-2"
+    },
+    "n59": {
+      "ip": "222.201.187.50",
+      "port": "9060",
+      "emulator": "emulator-2"
+    },
+    "n60": {
+      "ip": "222.201.187.50",
+      "port": "9061",
+      "emulator": "emulator-2"
+    },
+    "n61": {
+      "ip": "222.201.187.50",
+      "port": "9062",
+      "emulator": "emulator-2"
+    },
+    "n62": {
+      "ip": "222.201.187.50",
+      "port": "9063",
+      "emulator": "emulator-2"
+    },
+    "n63": {
+      "ip": "222.201.187.50",
+      "port": "9064",
+      "emulator": "emulator-2"
+    },
+    "n64": {
+      "ip": "222.201.187.50",
+      "port": "9065",
+      "emulator": "emulator-2"
+    },
+    "n65": {
+      "ip": "222.201.187.50",
+      "port": "9066",
+      "emulator": "emulator-2"
+    },
+    "n66": {
+      "ip": "222.201.187.50",
+      "port": "9067",
+      "emulator": "emulator-2"
+    },
+    "n67": {
+      "ip": "222.201.187.50",
+      "port": "9068",
+      "emulator": "emulator-2"
+    },
+    "n68": {
+      "ip": "222.201.187.50",
+      "port": "9069",
+      "emulator": "emulator-2"
+    },
+    "n69": {
+      "ip": "222.201.187.50",
+      "port": "9070",
+      "emulator": "emulator-2"
+    },
+    "n70": {
+      "ip": "222.201.187.50",
+      "port": "9071",
+      "emulator": "emulator-2"
+    },
+    "n71": {
+      "ip": "222.201.187.50",
+      "port": "9072",
+      "emulator": "emulator-2"
+    },
+    "n72": {
+      "ip": "222.201.187.50",
+      "port": "9073",
+      "emulator": "emulator-2"
+    },
+    "n73": {
+      "ip": "222.201.187.50",
+      "port": "9074",
+      "emulator": "emulator-2"
+    },
+    "n74": {
+      "ip": "222.201.187.50",
+      "port": "9075",
+      "emulator": "emulator-2"
+    },
+    "n75": {
+      "ip": "222.201.187.50",
+      "port": "9076",
+      "emulator": "emulator-2"
+    },
+    "n76": {
+      "ip": "222.201.187.50",
+      "port": "9077",
+      "emulator": "emulator-2"
+    },
+    "n77": {
+      "ip": "222.201.187.50",
+      "port": "9078",
+      "emulator": "emulator-2"
+    },
+    "n78": {
+      "ip": "222.201.187.50",
+      "port": "9079",
+      "emulator": "emulator-2"
+    },
+    "n79": {
+      "ip": "222.201.187.50",
+      "port": "9080",
+      "emulator": "emulator-2"
+    },
+    "n80": {
+      "ip": "222.201.187.50",
+      "port": "9081",
+      "emulator": "emulator-2"
+    },
+    "n81": {
+      "ip": "222.201.187.50",
+      "port": "9082",
+      "emulator": "emulator-2"
+    },
+    "n82": {
+      "ip": "222.201.187.50",
+      "port": "9083",
+      "emulator": "emulator-2"
+    },
+    "n83": {
+      "ip": "222.201.187.50",
+      "port": "9084",
+      "emulator": "emulator-2"
+    },
+    "n84": {
+      "ip": "222.201.187.50",
+      "port": "9085",
+      "emulator": "emulator-2"
+    },
+    "n85": {
+      "ip": "222.201.187.50",
+      "port": "9086",
+      "emulator": "emulator-2"
+    },
+    "n86": {
+      "ip": "222.201.187.50",
+      "port": "9087",
+      "emulator": "emulator-2"
+    },
+    "n87": {
+      "ip": "222.201.187.50",
+      "port": "9088",
+      "emulator": "emulator-2"
+    },
+    "n88": {
+      "ip": "222.201.187.50",
+      "port": "9089",
+      "emulator": "emulator-2"
+    },
+    "n89": {
+      "ip": "222.201.187.50",
+      "port": "9090",
+      "emulator": "emulator-2"
+    },
+    "n90": {
+      "ip": "222.201.187.50",
+      "port": "9091",
+      "emulator": "emulator-2"
+    },
+    "n91": {
+      "ip": "222.201.187.50",
+      "port": "9092",
+      "emulator": "emulator-2"
+    },
+    "n92": {
+      "ip": "222.201.187.50",
+      "port": "9093",
+      "emulator": "emulator-2"
+    },
+    "n93": {
+      "ip": "222.201.187.50",
+      "port": "9094",
+      "emulator": "emulator-2"
+    },
+    "n94": {
+      "ip": "222.201.187.50",
+      "port": "9095",
+      "emulator": "emulator-2"
+    },
+    "n95": {
+      "ip": "222.201.187.50",
+      "port": "9096",
+      "emulator": "emulator-2"
+    },
+    "n96": {
+      "ip": "222.201.187.50",
+      "port": "9097",
+      "emulator": "emulator-2"
+    },
+    "n97": {
+      "ip": "222.201.187.50",
+      "port": "9098",
+      "emulator": "emulator-2"
+    },
+    "n98": {
+      "ip": "222.201.187.50",
+      "port": "9099",
+      "emulator": "emulator-2"
+    },
+    "n99": {
+      "ip": "222.201.187.50",
+      "port": "9100",
+      "emulator": "emulator-2"
+    }
+  },
+  "physical_node": {
+    "n0": {
+      "ip": ""
+    },
+    "n1": {
+      "ip": ""
+    },
+    "n2": {
+      "ip": ""
+    },
+    "n3": {
+      "ip": ""
+    },
+    "n4": {
+      "ip": ""
+    }
+  }
+}

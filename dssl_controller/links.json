@@ -1,0 +1,8202 @@
+{
+    "n0": [
+        {
+            "dest": "n88",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "3mbps"
+        }
+    ],
+    "n1": [
+        {
+            "dest": "n29",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "5mbps"
+        }
+    ],
+    "n2": [
+        {
+            "dest": "n96",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "5mbps"
+        }
+    ],
+    "n3": [
+        {
+            "dest": "n47",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "1mbps"
+        }
+    ],
+    "n4": [
+        {
+            "dest": "n60",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "4mbps"
+        }
+    ],
+    "n5": [
+        {
+            "dest": "n60",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "1mbps"
+        }
+    ],
+    "n6": [
+        {
+            "dest": "n19",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "2mbps"
+        }
+    ],
+    "n7": [
+        {
+            "dest": "n84",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "2mbps"
+        }
+    ],
+    "n8": [
+        {
+            "dest": "n31",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "1mbps"
+        }
+    ],
+    "n9": [
+        {
+            "dest": "n13",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "4mbps"
+        }
+    ],
+    "n10": [
+        {
+            "dest": "n64",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        }
+    ],
+    "n11": [
+        {
+            "dest": "n31",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "4mbps"
+        }
+    ],
+    "n12": [
+        {
+            "dest": "n72",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "1mbps"
+        }
+    ],
+    "n13": [
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "1mbps"
+        }
+    ],
+    "n14": [
+        {
+            "dest": "n29",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        }
+    ],
+    "n15": [
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "5mbps"
+        }
+    ],
+    "n16": [
+        {
+            "dest": "n41",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "5mbps"
+        }
+    ],
+    "n17": [
+        {
+            "dest": "n8",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "1mbps"
+        }
+    ],
+    "n18": [
+        {
+            "dest": "n14",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "1mbps"
+        }
+    ],
+    "n19": [
+        {
+            "dest": "n37",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "2mbps"
+        }
+    ],
+    "n20": [
+        {
+            "dest": "n81",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "3mbps"
+        }
+    ],
+    "n21": [
+        {
+            "dest": "n90",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "5mbps"
+        }
+    ],
+    "n22": [
+        {
+            "dest": "n48",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "3mbps"
+        }
+    ],
+    "n23": [
+        {
+            "dest": "n61",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "1mbps"
+        }
+    ],
+    "n24": [
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "4mbps"
+        }
+    ],
+    "n25": [
+        {
+            "dest": "n5",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "3mbps"
+        }
+    ],
+    "n26": [
+        {
+            "dest": "n81",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "4mbps"
+        }
+    ],
+    "n27": [
+        {
+            "dest": "n95",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "3mbps"
+        }
+    ],
+    "n28": [
+        {
+            "dest": "n56",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "2mbps"
+        }
+    ],
+    "n29": [
+        {
+            "dest": "n16",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "2mbps"
+        }
+    ],
+    "n30": [
+        {
+            "dest": "n32",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "4mbps"
+        }
+    ],
+    "n31": [
+        {
+            "dest": "n37",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "1mbps"
+        }
+    ],
+    "n32": [
+        {
+            "dest": "n16",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "5mbps"
+        }
+    ],
+    "n33": [
+        {
+            "dest": "n34",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "1mbps"
+        }
+    ],
+    "n34": [
+        {
+            "dest": "n48",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "3mbps"
+        }
+    ],
+    "n35": [
+        {
+            "dest": "n95",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "5mbps"
+        }
+    ],
+    "n36": [
+        {
+            "dest": "n0",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "3mbps"
+        }
+    ],
+    "n37": [
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "3mbps"
+        }
+    ],
+    "n38": [
+        {
+            "dest": "n37",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "3mbps"
+        }
+    ],
+    "n39": [
+        {
+            "dest": "n57",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        }
+    ],
+    "n40": [
+        {
+            "dest": "n38",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "5mbps"
+        }
+    ],
+    "n41": [
+        {
+            "dest": "n54",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "2mbps"
+        }
+    ],
+    "n42": [
+        {
+            "dest": "n13",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "5mbps"
+        }
+    ],
+    "n43": [
+        {
+            "dest": "n88",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "4mbps"
+        }
+    ],
+    "n44": [
+        {
+            "dest": "n16",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "1mbps"
+        }
+    ],
+    "n45": [
+        {
+            "dest": "n97",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "2mbps"
+        }
+    ],
+    "n46": [
+        {
+            "dest": "n43",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "3mbps"
+        }
+    ],
+    "n47": [
+        {
+            "dest": "n88",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "3mbps"
+        }
+    ],
+    "n48": [
+        {
+            "dest": "n54",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "3mbps"
+        }
+    ],
+    "n49": [
+        {
+            "dest": "n47",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "5mbps"
+        }
+    ],
+    "n50": [
+        {
+            "dest": "n91",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "3mbps"
+        }
+    ],
+    "n51": [
+        {
+            "dest": "n99",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "5mbps"
+        }
+    ],
+    "n52": [
+        {
+            "dest": "n37",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "2mbps"
+        }
+    ],
+    "n53": [
+        {
+            "dest": "n65",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "1mbps"
+        }
+    ],
+    "n54": [
+        {
+            "dest": "n47",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "4mbps"
+        }
+    ],
+    "n55": [
+        {
+            "dest": "n31",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "2mbps"
+        }
+    ],
+    "n56": [
+        {
+            "dest": "n65",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "4mbps"
+        }
+    ],
+    "n57": [
+        {
+            "dest": "n90",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "4mbps"
+        }
+    ],
+    "n58": [
+        {
+            "dest": "n3",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "5mbps"
+        }
+    ],
+    "n59": [
+        {
+            "dest": "n73",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "4mbps"
+        }
+    ],
+    "n60": [
+        {
+            "dest": "n29",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "5mbps"
+        }
+    ],
+    "n61": [
+        {
+            "dest": "n16",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        }
+    ],
+    "n62": [
+        {
+            "dest": "n49",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "1mbps"
+        }
+    ],
+    "n63": [
+        {
+            "dest": "n47",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "5mbps"
+        }
+    ],
+    "n64": [
+        {
+            "dest": "n79",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "1mbps"
+        }
+    ],
+    "n65": [
+        {
+            "dest": "n88",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "5mbps"
+        }
+    ],
+    "n66": [
+        {
+            "dest": "n46",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "2mbps"
+        }
+    ],
+    "n67": [
+        {
+            "dest": "n45",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "1mbps"
+        }
+    ],
+    "n68": [
+        {
+            "dest": "n88",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "4mbps"
+        }
+    ],
+    "n69": [
+        {
+            "dest": "n63",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "5mbps"
+        }
+    ],
+    "n70": [
+        {
+            "dest": "n8",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "4mbps"
+        }
+    ],
+    "n71": [
+        {
+            "dest": "n39",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "1mbps"
+        }
+    ],
+    "n72": [
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "4mbps"
+        }
+    ],
+    "n73": [
+        {
+            "dest": "n37",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "1mbps"
+        }
+    ],
+    "n74": [
+        {
+            "dest": "n80",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "4mbps"
+        }
+    ],
+    "n75": [
+        {
+            "dest": "n65",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "4mbps"
+        }
+    ],
+    "n76": [
+        {
+            "dest": "n43",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "5mbps"
+        }
+    ],
+    "n77": [
+        {
+            "dest": "n21",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n17",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "2mbps"
+        }
+    ],
+    "n78": [
+        {
+            "dest": "n82",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "3mbps"
+        }
+    ],
+    "n79": [
+        {
+            "dest": "n56",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n37",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "3mbps"
+        }
+    ],
+    "n80": [
+        {
+            "dest": "n48",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "2mbps"
+        }
+    ],
+    "n81": [
+        {
+            "dest": "n54",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "4mbps"
+        }
+    ],
+    "n82": [
+        {
+            "dest": "n84",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "1mbps"
+        }
+    ],
+    "n83": [
+        {
+            "dest": "n16",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        }
+    ],
+    "n84": [
+        {
+            "dest": "n90",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n85",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "3mbps"
+        }
+    ],
+    "n85": [
+        {
+            "dest": "n50",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n46",
+            "bw": "3mbps"
+        }
+    ],
+    "n86": [
+        {
+            "dest": "n70",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n39",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "1mbps"
+        }
+    ],
+    "n87": [
+        {
+            "dest": "n48",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n77",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n15",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n67",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        }
+    ],
+    "n88": [
+        {
+            "dest": "n0",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n65",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n11",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n3",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "2mbps"
+        }
+    ],
+    "n89": [
+        {
+            "dest": "n10",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n18",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n16",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "2mbps"
+        }
+    ],
+    "n90": [
+        {
+            "dest": "n54",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n57",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n8",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n40",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n61",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "1mbps"
+        }
+    ],
+    "n91": [
+        {
+            "dest": "n0",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n50",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n90",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n30",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "5mbps"
+        }
+    ],
+    "n92": [
+        {
+            "dest": "n47",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n29",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n20",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n63",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n5",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "5mbps"
+        }
+    ],
+    "n93": [
+        {
+            "dest": "n90",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n21",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n92",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n34",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n97",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n86",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n84",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "5mbps"
+        }
+    ],
+    "n94": [
+        {
+            "dest": "n4",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n48",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n59",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n38",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n75",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n81",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n60",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n71",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "3mbps"
+        }
+    ],
+    "n95": [
+        {
+            "dest": "n38",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n35",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n27",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n24",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n89",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n70",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n96",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n79",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "5mbps"
+        }
+    ],
+    "n96": [
+        {
+            "dest": "n3",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n23",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n94",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n95",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n58",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n32",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n19",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n10",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n66",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n36",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n9",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n41",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n44",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n52",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "5mbps"
+        }
+    ],
+    "n97": [
+        {
+            "dest": "n72",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n45",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n56",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n82",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n49",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n80",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n28",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n87",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n69",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n93",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n13",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n42",
+            "bw": "4mbps"
+        }
+    ],
+    "n98": [
+        {
+            "dest": "n63",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n0",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n78",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n73",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n1",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n47",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n83",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n25",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n7",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n64",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n53",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n99",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n91",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n31",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n22",
+            "bw": "2mbps"
+        }
+    ],
+    "n99": [
+        {
+            "dest": "n91",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n51",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n54",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n33",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n62",
+            "bw": "3mbps"
+        },
+        {
+            "dest": "n88",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n12",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n26",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n43",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n6",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n55",
+            "bw": "4mbps"
+        },
+        {
+            "dest": "n14",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n4",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n76",
+            "bw": "5mbps"
+        },
+        {
+            "dest": "n74",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n98",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n2",
+            "bw": "1mbps"
+        },
+        {
+            "dest": "n72",
+            "bw": "2mbps"
+        },
+        {
+            "dest": "n68",
+            "bw": "3mbps"
+        }
+    ]
+}

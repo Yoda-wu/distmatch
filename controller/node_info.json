@@ -1,38 +1,30 @@
 {
   "emulator": {
-    "server-1": {
-      "ip": "192.168.1.11"
-    },
-    "server-2": {
-      "ip": "192.168.1.12"
+    "emulator-2": {
+      "ip": "222.201.187.52"
     }
   },
   "emulated_node": {
     "n1": {
-      "ip": "192.168.1.11",
+      "ip": "222.201.187.52",
       "port": "8001",
-      "emulator": "server-1"
+      "emulator": "emulator-2"
     },
     "n2": {
-      "ip": "192.168.1.12",
+      "ip": "222.201.187.52",
       "port": "8002",
-      "emulator": "server-2"
+      "emulator": "emulator-2"
     },
     "n3": {
-      "ip": "192.168.1.12",
+      "ip": "222.201.187.52",
       "port": "8003",
-      "emulator": "server-2"
+      "emulator": "emulator-2"
     },
     "n4": {
-      "ip": "192.168.1.12",
+      "ip": "222.201.187.52",
       "port": "8004",
-      "emulator": "server-2"
+      "emulator": "emulator-2"
     }
   },
-  "physical_node": {
-    "p1": {
-      "ip": "192.168.1.13",
-      "port": "4444"
-    }
-  }
+  "physical_node": {}
 }

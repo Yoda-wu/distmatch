@@ -1,0 +1,502 @@
+{
+    "n0": {
+        "labeled_dataset": "labeled_cifar10_0.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_0.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n1": {
+        "labeled_dataset": "labeled_cifar10_1.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_1.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n2": {
+        "labeled_dataset": "labeled_cifar10_2.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_2.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n3": {
+        "labeled_dataset": "labeled_cifar10_3.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_3.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n4": {
+        "labeled_dataset": "labeled_cifar10_4.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_4.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n5": {
+        "labeled_dataset": "labeled_cifar10_5.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_5.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n6": {
+        "labeled_dataset": "labeled_cifar10_6.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_6.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n7": {
+        "labeled_dataset": "labeled_cifar10_7.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_7.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n8": {
+        "labeled_dataset": "labeled_cifar10_8.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_8.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n9": {
+        "labeled_dataset": "labeled_cifar10_9.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_9.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n10": {
+        "labeled_dataset": "labeled_cifar10_10.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_10.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n11": {
+        "labeled_dataset": "labeled_cifar10_11.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_11.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n12": {
+        "labeled_dataset": "labeled_cifar10_12.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_12.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n13": {
+        "labeled_dataset": "labeled_cifar10_13.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_13.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n14": {
+        "labeled_dataset": "labeled_cifar10_14.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_14.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n15": {
+        "labeled_dataset": "labeled_cifar10_15.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_15.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n16": {
+        "labeled_dataset": "labeled_cifar10_16.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_16.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n17": {
+        "labeled_dataset": "labeled_cifar10_17.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_17.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n18": {
+        "labeled_dataset": "labeled_cifar10_18.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_18.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n19": {
+        "labeled_dataset": "labeled_cifar10_19.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_19.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n20": {
+        "labeled_dataset": "labeled_cifar10_20.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_20.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n21": {
+        "labeled_dataset": "labeled_cifar10_21.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_21.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n22": {
+        "labeled_dataset": "labeled_cifar10_22.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_22.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n23": {
+        "labeled_dataset": "labeled_cifar10_23.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_23.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n24": {
+        "labeled_dataset": "labeled_cifar10_24.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_24.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n25": {
+        "labeled_dataset": "labeled_cifar10_25.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_25.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n26": {
+        "labeled_dataset": "labeled_cifar10_26.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_26.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n27": {
+        "labeled_dataset": "labeled_cifar10_27.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_27.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n28": {
+        "labeled_dataset": "labeled_cifar10_28.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_28.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n29": {
+        "labeled_dataset": "labeled_cifar10_29.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_29.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n30": {
+        "labeled_dataset": "labeled_cifar10_30.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_30.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n31": {
+        "labeled_dataset": "labeled_cifar10_31.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_31.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n32": {
+        "labeled_dataset": "labeled_cifar10_32.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_32.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n33": {
+        "labeled_dataset": "labeled_cifar10_33.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_33.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n34": {
+        "labeled_dataset": "labeled_cifar10_34.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_34.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n35": {
+        "labeled_dataset": "labeled_cifar10_35.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_35.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n36": {
+        "labeled_dataset": "labeled_cifar10_36.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_36.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n37": {
+        "labeled_dataset": "labeled_cifar10_37.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_37.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n38": {
+        "labeled_dataset": "labeled_cifar10_38.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_38.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n39": {
+        "labeled_dataset": "labeled_cifar10_39.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_39.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n40": {
+        "labeled_dataset": "labeled_cifar10_40.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_40.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n41": {
+        "labeled_dataset": "labeled_cifar10_41.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_41.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n42": {
+        "labeled_dataset": "labeled_cifar10_42.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_42.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n43": {
+        "labeled_dataset": "labeled_cifar10_43.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_43.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n44": {
+        "labeled_dataset": "labeled_cifar10_44.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_44.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n45": {
+        "labeled_dataset": "labeled_cifar10_45.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_45.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n46": {
+        "labeled_dataset": "labeled_cifar10_46.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_46.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n47": {
+        "labeled_dataset": "labeled_cifar10_47.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_47.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n48": {
+        "labeled_dataset": "labeled_cifar10_48.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_48.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n49": {
+        "labeled_dataset": "labeled_cifar10_49.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_49.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n50": {
+        "labeled_dataset": "labeled_cifar10_50.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_50.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n51": {
+        "labeled_dataset": "labeled_cifar10_51.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_51.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n52": {
+        "labeled_dataset": "labeled_cifar10_52.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_52.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n53": {
+        "labeled_dataset": "labeled_cifar10_53.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_53.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n54": {
+        "labeled_dataset": "labeled_cifar10_54.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_54.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n55": {
+        "labeled_dataset": "labeled_cifar10_55.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_55.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n56": {
+        "labeled_dataset": "labeled_cifar10_56.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_56.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n57": {
+        "labeled_dataset": "labeled_cifar10_57.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_57.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n58": {
+        "labeled_dataset": "labeled_cifar10_58.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_58.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n59": {
+        "labeled_dataset": "labeled_cifar10_59.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_59.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n60": {
+        "labeled_dataset": "labeled_cifar10_60.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_60.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n61": {
+        "labeled_dataset": "labeled_cifar10_61.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_61.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n62": {
+        "labeled_dataset": "labeled_cifar10_62.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_62.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n63": {
+        "labeled_dataset": "labeled_cifar10_63.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_63.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n64": {
+        "labeled_dataset": "labeled_cifar10_64.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_64.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n65": {
+        "labeled_dataset": "labeled_cifar10_65.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_65.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n66": {
+        "labeled_dataset": "labeled_cifar10_66.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_66.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n67": {
+        "labeled_dataset": "labeled_cifar10_67.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_67.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n68": {
+        "labeled_dataset": "labeled_cifar10_68.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_68.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n69": {
+        "labeled_dataset": "labeled_cifar10_69.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_69.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n70": {
+        "labeled_dataset": "labeled_cifar10_70.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_70.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n71": {
+        "labeled_dataset": "labeled_cifar10_71.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_71.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n72": {
+        "labeled_dataset": "labeled_cifar10_72.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_72.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n73": {
+        "labeled_dataset": "labeled_cifar10_73.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_73.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n74": {
+        "labeled_dataset": "labeled_cifar10_74.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_74.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n75": {
+        "labeled_dataset": "labeled_cifar10_75.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_75.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n76": {
+        "labeled_dataset": "labeled_cifar10_76.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_76.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n77": {
+        "labeled_dataset": "labeled_cifar10_77.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_77.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n78": {
+        "labeled_dataset": "labeled_cifar10_78.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_78.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n79": {
+        "labeled_dataset": "labeled_cifar10_79.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_79.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n80": {
+        "labeled_dataset": "labeled_cifar10_80.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_80.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n81": {
+        "labeled_dataset": "labeled_cifar10_81.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_81.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n82": {
+        "labeled_dataset": "labeled_cifar10_82.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_82.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n83": {
+        "labeled_dataset": "labeled_cifar10_83.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_83.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n84": {
+        "labeled_dataset": "labeled_cifar10_84.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_84.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n85": {
+        "labeled_dataset": "labeled_cifar10_85.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_85.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n86": {
+        "labeled_dataset": "labeled_cifar10_86.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_86.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n87": {
+        "labeled_dataset": "labeled_cifar10_87.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_87.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n88": {
+        "labeled_dataset": "labeled_cifar10_88.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_88.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n89": {
+        "labeled_dataset": "labeled_cifar10_89.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_89.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n90": {
+        "labeled_dataset": "labeled_cifar10_90.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_90.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n91": {
+        "labeled_dataset": "labeled_cifar10_91.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_91.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n92": {
+        "labeled_dataset": "labeled_cifar10_92.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_92.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n93": {
+        "labeled_dataset": "labeled_cifar10_93.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_93.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n94": {
+        "labeled_dataset": "labeled_cifar10_94.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_94.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n95": {
+        "labeled_dataset": "labeled_cifar10_95.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_95.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n96": {
+        "labeled_dataset": "labeled_cifar10_96.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_96.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n97": {
+        "labeled_dataset": "labeled_cifar10_97.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_97.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n98": {
+        "labeled_dataset": "labeled_cifar10_98.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_98.npy",
+        "test_dataset": "test_cifar10.npy"
+    },
+    "n99": {
+        "labeled_dataset": "labeled_cifar10_99.npy",
+        "unlabeled_dataset": "unlabeled_cifar10_99.npy",
+        "test_dataset": "test_cifar10.npy"
+    }
+}
