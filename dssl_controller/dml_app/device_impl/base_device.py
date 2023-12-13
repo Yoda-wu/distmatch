@@ -11,12 +11,12 @@ from typing import List
 
 import numpy as np
 from config import Configuration
-from dml_app.device_impl.neighbor_device import Neighbor_Device
-from dml_app.device_impl.preprocessor import Dataset_Preprocessor
+from device_impl.neighbor_device import Neighbor_Device
+from device_impl.preprocessor import Dataset_Preprocessor
 from keras import optimizers
-from dml_app.model.resnet import resnet10
+from model.resnet import resnet10
 from utils.numpy_helpers import np_load
-from dml_app.worker_utils import send_data
+from worker_utils import send_data
 
 
 class Base_Device(metaclass=abc.ABCMeta):
@@ -66,7 +66,7 @@ class Base_Device(metaclass=abc.ABCMeta):
 
         # 模型读写锁，禁止在写模型参数时读模型参数
         self.lock = threading.RLock()
-
+        # self.semaphore = threading.Semaphore()
         # 用于传递给其他节点的模型信息
         self.model_info = {}
 
@@ -92,6 +92,8 @@ class Base_Device(metaclass=abc.ABCMeta):
         # 外部接口地址
         self.heartbeat_path = '/heartbeat?name=' + config.node_name
         self.log_path = '/log?name=' + config.node_name
+
+        self.is_train_finish = False
     
     def initialize(self):
         self.__initialize_connecting_devices_list()
@@ -103,7 +105,7 @@ class Base_Device(metaclass=abc.ABCMeta):
     def __initialize_connecting_devices_list(self):
         # 连接列表形式为{node_name: node_addr}
         for node_name, node_addr in self.config.connecting_devices_list.items():
-            self.connecting_devices_list.append(Neighbor_Device(node_name, node_addr))
+            self.connecting_devices_list.append(Neighbor_Device(node_name, node_addr, self.logger))
 
         self.logger.log(f'connecting devices list: {[node.get_node_name() for node in self.connecting_devices_list]}')
     
@@ -153,14 +155,24 @@ class Base_Device(metaclass=abc.ABCMeta):
     def train(self):
         start_time = time.time()
         for self.current_round in range(1, self.config.num_of_rounds + 1):
-            self.logger.log(f'round {self.current_round} begin training')
-
+            # self.logger.log(f'round {self.current_round} begin training')
+            self.is_train_finish = False
+            self.logger.log(f'round {self.current_round}  begin training training status is {self.is_train_finish} waiting for lock')
             # 训练
-            total_supervised_loss, total_num_of_labeled_data, total_unsupervised_loss, total_num_of_unlabeled_data = self.train_one_round()
-            supervised_loss = total_supervised_loss/ total_num_of_labeled_data
-            unsupervised_loss = total_unsupervised_loss/ total_num_of_unlabeled_data
+            # total_supervised_loss, total_num_of_labeled_data, total_unsupervised_loss, total_num_of_unlabeled_data = self.train_one_round()
+            # supervised_loss = total_supervised_loss/ total_num_of_labeled_data
+            # unsupervised_loss = total_unsupervised_loss/ total_num_of_unlabeled_data
+            with self.lock:
+                self.logger.log(f'round {self.current_round} get the lock')
+                total_supervised_loss, total_num_of_labeled_data, total_unsupervised_loss, total_num_of_unlabeled_data = self.train_one_round()
+                supervised_loss = total_supervised_loss / total_num_of_labeled_data
+                unsupervised_loss = total_unsupervised_loss / total_num_of_unlabeled_data
+            self.logger.log('finish training release lock')
             self.logger.log(f'round {self.current_round} supervised loss: {supervised_loss}')
             self.logger.log(f'round {self.current_round} unsupervised loss: {unsupervised_loss}')
+            self.is_train_finish = True
+            self.logger.log(f'round {self.current_round} training status is {self.is_train_finish}')
+
 
             # 拉取模型
             self.fetch_model()
@@ -322,7 +334,9 @@ class Base_Device(metaclass=abc.ABCMeta):
         return acc
     
     def __update_model_info(self):
+        self.logger.log('before update_model_info, waiting for lock')
         with self.lock:
+            self.logger.log('into update_model_info, got the lock')
             if self.model_info == {} or self.model_info['round'] != self.current_round:
                 weights = self.model.get_weights()
                 self.model_info = {
@@ -332,6 +346,7 @@ class Base_Device(metaclass=abc.ABCMeta):
                     'round': self.current_round,
                     'dataset_size': self.get_dataset_size()
                 }
+        self.logger.log('into update_model_info, release the  lock')
         
     def get_dataset_size(self):
         '''
@@ -359,3 +374,6 @@ class Base_Device(metaclass=abc.ABCMeta):
 
     def on_get_current_round(self):
         return {'round': self.current_round}
+
+    def on_is_train_finish(self):
+        return {'is_train_finish': self.is_train_finish}

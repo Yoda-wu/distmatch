@@ -2,7 +2,7 @@ from concurrent.futures import ThreadPoolExecutor
 import json
 from flask import Flask, request
 from config import Configuration
-from device_impl.base_device import Base_Device
+from device_impl.base_device import  Base_Device
 
 config = Configuration()
 device: Base_Device = None
@@ -69,6 +69,12 @@ def on_get_model_info():
 def on_get_current_round():
     print('GET at /current-round')
     return device.on_get_current_round()
+
+
+@app.route('/is_train_finish', methods=['GET'])
+def on_is_train_finish():
+    print('Get at /is_train_finish')
+    return device.on_is_train_finish()
 
 
 if __name__ == '__main__':

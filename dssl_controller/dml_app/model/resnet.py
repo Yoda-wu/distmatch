@@ -39,6 +39,7 @@ class BasicBlock(layers.Layer):
 
         return output
 
+
 # 残差神经网络
 class ResNet(keras.Model):
     def __init__(self, layer_dims, num_classes=10): # [2, 2, 2, 2]

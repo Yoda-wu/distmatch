@@ -1,7 +1,7 @@
 import json
 
 import numpy as np
-from utils.network_utils import send_data
+from dml_app.utils.network_utils import send_data
 
 
 class Neighbor_Device:
@@ -22,6 +22,10 @@ class Neighbor_Device:
         data = json.loads(send_data('GET', '/current-round', self.node_addr))
         current_round = data['round']
         if self.current_round != current_round:
+            while True:
+                if json.loads(send_data('GET', 'is_train_finish', self.node_addr))['is_train_finish']:
+                    break
+                print('wait for train finish')
             data = json.loads(send_data('GET', '/model-info', self.node_addr))
             self.model_weight = [np.array(layer) for layer in data['weight']]
             self.current_round = data['round']

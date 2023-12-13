@@ -2,9 +2,9 @@ from typing import IO, Dict
 import requests
 
 
-def send_data (method: str, path: str, address: str, port: int = None,
-		data: Dict [str, str] = None, files: Dict [str, IO] = None) -> str:
-	"""
+def send_data(method: str, path: str, address: str, port: int = None,
+              data: Dict[str, str] = None, files: Dict[str, IO] = None) -> str:
+    """
 	send a request to http://${address/path} or http://${ip:port/path}.
 	@param method: 'GET' or 'POST'.
 	@param path:
@@ -14,20 +14,21 @@ def send_data (method: str, path: str, address: str, port: int = None,
 	@param files: only used in 'POST'.
 	@return: response.text.
 	"""
-	if port:
-		address += ':' + str (port)
-	if method.upper () == 'GET':
-		res = requests.get ('http://' + address + '/' + path)
-		return res.text
-	elif method.upper () == 'POST':
-		res = requests.post ('http://' + address + '/' + path, data=data, files=files)
-		return res.text
-	else:
-		return 'err method ' + method
+    if port:
+        address += ':' + str(port)
+    if method.upper() == 'GET':
+        res = requests.get('http://' + address + '/' + path)
+        return res.text
+    elif method.upper() == 'POST':
+        res = requests.post('http://' + address + '/' + path, data=data, files=files)
+        return res.text
+    else:
+        return 'err method ' + method
+
 
 def post_json(path: str, address: str, port: int = None,
-		json: Dict [str, str] = None, files: Dict [str, IO] = None) -> str:
-	if port:
-		address += ':' + str (port)
-	res = requests.post('http://' + address + '/' + path, json=json, files=files)
-	return res.text
+              json: Dict[str, str] = None, files: Dict[str, IO] = None) -> str:
+    if port:
+        address += ':' + str(port)
+    res = requests.post('http://' + address + '/' + path, json=json, files=files)
+    return res.text

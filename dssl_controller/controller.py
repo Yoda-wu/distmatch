@@ -69,44 +69,38 @@ class Controller:
         nfsApp = self.testbed.add_nfs(tag='dml_app', path=self.dml_app_path)
         nfsDataset = self.testbed.add_nfs(tag='dataset', path=self.dml_dataset_path)
 
-        emulator_1 = self.testbed.add_emulator('emulator-1', self.config.worker1_ip, cpu=128, ram=512, unit='G')
-        for i in range(0, 50):
+        # emulator_1 = self.testbed.add_emulator('emulator-1', self.config.worker1_ip, cpu=128, ram=512, unit='G')
+        # for i in range(0, 50):
+        #     en = self.testbed.add_emulated_node('n' + str(i), '/home/worker/dml_app',
+        #                                         ['python3', 'app_main.py'], 'dml:v1.0', cpu=2, ram=8, unit='G',
+        #                                         emulator=emulator_1)
+        #     en.mount_local_path('./dml_file', '/home/worker/dml_file')
+        #     en.mount_nfs(nfsApp, '/home/worker/dml_app')
+        #     en.mount_nfs(nfsDataset, '/home/worker/dataset')
+        #
+        # emulator_2 = self.testbed.add_emulator('emulator-2', self.config.worker2_ip, cpu=128, ram=512, unit='G')
+        # for i in range(50, 100):
+        #     en = self.testbed.add_emulated_node('n' + str(i), '/home/worker/dml_app',
+        #                                         ['python3', 'app_main.py'], 'dml:v1.0', cpu=2, ram=8, unit='G',
+        #                                         emulator=emulator_2)
+        #     en.mount_local_path('./dml_file', '/home/worker/dml_file')
+        #     en.mount_nfs(nfsApp, '/home/worker/dml_app')
+        #     en.mount_nfs(nfsDataset, '/home/worker/dataset')
+
+        # 仅用一台3990x启动模拟器
+        emulator = self.testbed.add_emulator('emulator', self.config.worker1_ip, cpu=128, ram=512, unit='G')
+        for i in range(0, 10):
             en = self.testbed.add_emulated_node('n' + str(i), '/home/worker/dml_app',
-                                                ['python3', 'app_main.py'], 'dml:v1.0', cpu=2, ram=8, unit='G',
-                                                emulator=emulator_1)
+                                                ['python3', 'app_main.py'], 'dml:v1.0', cpu=1, ram=4, unit='G',
+                                                emulator=emulator)
             en.mount_local_path('./dml_file', '/home/worker/dml_file')
             en.mount_nfs(nfsApp, '/home/worker/dml_app')
             en.mount_nfs(nfsDataset, '/home/worker/dataset')
-
-        emulator_2 = self.testbed.add_emulator('emulator-2', self.config.worker2_ip, cpu=128, ram=512, unit='G')
-        for i in range(50, 100):
-            en = self.testbed.add_emulated_node('n' + str(i), '/home/worker/dml_app',
-                                                ['python3', 'app_main.py'], 'dml:v1.0', cpu=2, ram=8, unit='G',
-                                                emulator=emulator_2)
-            en.mount_local_path('./dml_file', '/home/worker/dml_file')
-            en.mount_nfs(nfsApp, '/home/worker/dml_app')
-            en.mount_nfs(nfsDataset, '/home/worker/dataset')
-
-        # # 仅用一台3990x启动模拟器
-        # emulator = self.testbed.add_emulator ('emulator', self.config.worker1_ip, cpu=128, ram=512, unit='G')
-        # for i in range (0, 100):
-        #     en = self.testbed.add_emulated_node ('n' + str (i), '/home/worker/dml_app',
-        #         ['python3', 'app_main.py'], 'dml:v1.0', cpu=1, ram=4, unit='G', emulator=emulator)
-        #     en.mount_local_path ('./dml_file', '/home/worker/dml_file')
-        #     en.mount_nfs (nfsApp, '/home/worker/dml_app')
-        #     en.mount_nfs (nfsDataset, '/home/worker/dataset')
 
         links_json = read_json(self.topology_file_path)
         self.testbed.load_link(links_json)
         self.testbed.save_config()
         # self.testbed.manager
-
-    def initialize_physical(self):
-        nfsApp = self.testbed.add_nfs(tag='dml_app', path=self.dml_app_path)
-        nfsDataset = self.testbed.add_nfs(tag='dataset', path=self.dml_dataset_path)
-        links_json =read_json(self.topology_file_path)
-        self.testbed.load_link(links_json)
-        self.testbed.save_config()
 
 
     def start(self):

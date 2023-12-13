@@ -10,9 +10,9 @@ class Configuration:
         self.task_id = str(uuid.uuid1())
 
         # 物理节点IP
-        self.testbed_ip = '222.201.187.51'
-        self.worker1_ip = '222.201.187.52'
-        self.worker2_ip = '222.201.187.50'
+        self.testbed_ip = '222.201.187.50'
+        self.worker1_ip = '222.201.187.51'
+        # self.worker2_ip = '222.201.187.50'
 
         # train/generate
         self.running_mode = args.running_mode
@@ -34,7 +34,7 @@ class Configuration:
         self.structure_conf_name = 'structure_conf.json'
 
         # 设备总数及协作设备总数
-        self.num_of_devices = 100
+        self.num_of_devices = 10
         # self.num_of_devices = 100
         if self.running_mode == 'generate':
             # 数据集生成参数
@@ -49,7 +49,7 @@ class Configuration:
                 self.num_of_classes = 100
                 self.num_of_labeled_samples_per_class = 500
             # 随机拓扑连接路径数
-            self.num_of_random_paths = 1000
+            self.num_of_random_paths = 15
             # 拓扑设置
             self.topology = args.topology
         elif self.running_mode == 'train':

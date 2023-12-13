@@ -635,7 +635,7 @@ class Testbed(object):
         self.__save_yml()
         self.__save_node_info()
 
-    def start(self, build_emulated_env: bool = False, build_physical_env: bool = False):
+    def hstart(self, build_emulated_env: bool = False, build_physical_env: bool = False):
         """
 		start the test environment.
 		"""
